@@ -20,7 +20,7 @@ This portfolio website serves as a platform to display my skills, education, pro
 
 ## Live Demo
 
-Check out the live demo of my portfolio here: [Live Demo](https://praveen-portfolio-reactjs.netlify.app/)
+Check out the live demo of my portfolio here: [Live Demo](https://praveen-dashboard-app.netlify.app/)
 
 ## Features
 
@@ -55,7 +55,7 @@ To run this project locally, you’ll need **Node.js** and **npm** (or **yarn**)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/praveen00219/portfolio-reactJS.git
+   git clone https://github.com/praveen00219/Personal-Dashboard-Web-App.git
 
    cd <filePath>
    npm install
